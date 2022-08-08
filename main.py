@@ -1,7 +1,3 @@
-# sc-1xf18x6-0 haVRLx AssetsSearchView--assets nft containers
-# sc-1xf18x6-0 sc-1twd32i-0 sc-1wwz3hp-0 cIOCCU kKpYwv kuGBEl nft locations container
-
-
 import os
 from random import randint
 from selenium import webdriver
